@@ -1,0 +1,5 @@
+*.bat
+Lib
+Scripts
+__pycache__
+*.cfg
